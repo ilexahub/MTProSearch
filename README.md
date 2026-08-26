@@ -1,6 +1,6 @@
 # MTProSearch
 
-**Скачать последнюю сборку:** [Releases](https://github.com/ilexahub/MTProSearch-releases/releases/latest)
+**Скачать последнюю сборку:** [Releases](https://github.com/ilexahub/MTProSearch/releases/latest)
 
 ## Установка
 

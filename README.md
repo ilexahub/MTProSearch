@@ -10,6 +10,12 @@
 
 Play Protect может показать «неизвестный разработчик»: подпись не из Google Play, это ожидаемо.
 
+<p>
+  <img src="docs/screenshots/main.png" alt="Главный экран" width="240" />
+  <img src="docs/screenshots/settings.png" alt="Настройки" width="240" />
+  <img src="docs/screenshots/filters.png" alt="Фильтры" width="240" />
+</p>
+
 **MTProSearch** — Android-приложение, которое скачивает публичные списки MTProto-прокси и перепроверяет их с сети вашего телефона.
 
 В список попадают только FakeTLS с SNI белых сайтов: VK, Сбер, Госуслуги, Яндекс, Mail.ru, OK, банки, маркетплейсы. Голый .ru не проходит.

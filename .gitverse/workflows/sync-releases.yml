@@ -1,0 +1,41 @@
+name: sync-releases
+
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Release tag, e.g. v1.4.0"
+        required: true
+        default: "v1.4.0"
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download APK from GitHub mirror
+        env:
+          TAG: ${{ github.event.inputs.tag || github.ref_name }}
+        run: |
+          VERSION="${TAG#v}"
+          APK="MTProSearch.${VERSION}.apk"
+          curl -fsSL -o "$APK" \
+            "https://github.com/ilexahub/MTProSearch/releases/download/${TAG}/${APK}"
+          ls -lh "$APK"
+
+      - name: Publish to GitVerse release
+        uses: actions/create-release@v1
+        with:
+          api_key: ${{ secrets.GITVERSE_API_KEY }}
+          title: ${{ github.event.inputs.tag || github.ref_name }}
+          body: |
+            APK mirror for MTProSearch.
+            Source: https://github.com/ilexahub/MTProSearch/releases
+          files: |
+            MTProSearch.*.apk
+          draft: false
+          pre_release: false

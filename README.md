@@ -2,6 +2,8 @@
 
 **Скачать последнюю сборку:** [GitHub](https://github.com/ilexahub/MTProSearch/releases/latest) · [GitVerse](https://gitverse.ru/ilexa/MTProSearch/releases)
 
+На GitVerse нет `/releases/latest`. Берите [верхний релиз в списке](https://gitverse.ru/ilexa/MTProSearch/releases) или открывайте постоянную памятку [текущая сборка](docs/latest.md).
+
 **[Как установить](docs/kak-ustanovit.md)** — пошагово, простым языком, с телефона.
 
 ## Установка

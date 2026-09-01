@@ -69,4 +69,10 @@ $curl = Get-Command curl.exe -ErrorAction Stop
     -F "attachment=@$ApkPath" `
     $uploadUrl | Out-Null
 
+$pointerScript = Join-Path $PSScriptRoot "update-latest-pointer.ps1"
+if (Test-Path $pointerScript) {
+    & $pointerScript -Tag $Tag
+}
+
 Write-Output "Uploaded $apkName to https://gitverse.ru/$Owner/$Repo/releases/tag/$Tag"
+Write-Output "GitVerse has no /releases/latest. Share https://gitverse.ru/$Owner/$Repo/releases (top item, badge Последний) or commit docs/latest.md."

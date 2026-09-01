@@ -1,4 +1,6 @@
-# MTProSearch
+# MTProSearch (Выручайка)
+
+Выручайка помогает открыть Телеграм, когда он плохо заходит: сама проверяет запасные пути с вашего телефона.
 
 **Скачать последнюю сборку:** [GitHub](https://github.com/ilexahub/MTProSearch/releases/latest) · [GitVerse](https://gitverse.ru/ilexa/MTProSearch/releases)
 

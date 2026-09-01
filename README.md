@@ -1,8 +1,12 @@
 # MTProSearch
 
-**Скачать последнюю сборку:** [GitHub](https://github.com/ilexahub/MTProSearch/releases/latest) · [GitVerse](https://gitverse.ru/ilexa/MTProSearch/releases/latest)
+**Скачать последнюю сборку:** [GitHub](https://github.com/ilexahub/MTProSearch/releases/latest) · [GitVerse](https://gitverse.ru/ilexa/MTProSearch/releases)
+
+**[Как установить](docs/kak-ustanovit.md)** — пошагово, простым языком, с телефона.
 
 ## Установка
+
+Краткая памятка. Подробности — на странице [Как установить](docs/kak-ustanovit.md).
 
 1. Скачайте APK с телефона. Android 8.0 и новее.
 2. Разрешите установку из этого источника (браузер или файловый менеджер).

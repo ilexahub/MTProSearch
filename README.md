@@ -18,8 +18,9 @@ Play Protect может показать «неизвестный разрабо
 
 <p>
   <img src="docs/screenshots/main.png" alt="Главный экран" width="240" />
-  <img src="docs/screenshots/settings.png" alt="Настройки" width="240" />
   <img src="docs/screenshots/filters.png" alt="Фильтры" width="240" />
+  <img src="docs/screenshots/proxy-action.png" alt="Открыть/Поделиться" width="240" />
+  <img src="docs/screenshots/install-telegram.png" alt="Открыть" width="240" />
 </p>
 
 **MTProSearch (Выручайка)** — Android-приложение, которое скачивает публичные списки и перепроверяет их с сети вашего андроид.

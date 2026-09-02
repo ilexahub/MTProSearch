@@ -4,6 +4,8 @@
 
 **Скачать последнюю сборку :** [GitHub](https://github.com/ilexahub/MTProSearch/releases/latest) · [GitVerse](https://gitverse.ru/ilexa/MTProSearch/releases)
 
+**Поддержать :** [Tribute](https://t.me/tribute/app?startapp=dPMR) · [веб](https://web.tribute.tg/d/PMR)
+
 **[Как установить](docs/kak-ustanovit.md)** : подробности — пошагово, простым языком.
 
 ## Установка

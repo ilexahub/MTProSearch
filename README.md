@@ -2,7 +2,7 @@
 
 Выручайка помогает открывать мир, проверяет и показывает запасные пути с вашего Андроида.
 
-**Скачать последнюю сборку :** [GitHub](https://github.com/ilexahub/MTProSearch/releases/latest) · [GitVerse](https://gitverse.ru/ilexa/MTProSearch/releases)
+**Скачать последнюю сборку :** [GitHub](https://github.com/ilexahub/MTProSearch/releases/latest)
 
 **Поддержать :** [Tribute](https://t.me/tribute/app?startapp=dPMR) · [веб](https://web.tribute.tg/d/PMR)
 
@@ -29,8 +29,6 @@ Play Protect может показать «неизвестный разрабо
 
 В список по-умолчанию попадают только FakeTLS с белых сайтов: VK, Сбер, Госуслуги, Яндекс, Mail.ru, OK, банки, маркетплейсы.
 Понимает ссылки tg://proxy и t.me/proxy.
-
-На GitVerse нет `/releases/latest`. Берите [верхний релиз в списке](https://gitverse.ru/ilexa/MTProSearch/releases) или открывайте постоянную памятку [текущая сборка](docs/latest.md).
 
 **Проверка :**
 Галки **Proxy RU / EU / All** выбирают, какие списки качать. По умолчанию RU.

@@ -4,7 +4,7 @@
 
 Вы перешли по ссылке на страницу, где лежит программа. Она помогает получать учебные материалы и пользоваться средством самообразования, даже когда привычные каналы связи работают плохо.
 
-Скачать файл: [GitHub](https://github.com/ilexahub/MTProSearch/releases/latest) или [GitVerse](https://gitverse.ru/ilexa/MTProSearch/releases) — на GitVerse сверху новая версия с подписью **«Последний»**. Скачайте файл **MTProSearch**.
+Скачать файл: [GitHub](https://github.com/ilexahub/MTProSearch/releases/latest). Скачайте файл **MTProSearch**.
 
 ## 1. Скачайте файл
 

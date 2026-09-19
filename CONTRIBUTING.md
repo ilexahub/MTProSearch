@@ -11,14 +11,15 @@
 1. **Сообщить об ошибке** — создайте Issue:
    - https://github.com/ilexahub/MTProSearch/issues
 
-   Укажите версию APK (сейчас **1.6.2**), Android, сеть (Wi‑Fi / LTE)
+   Укажите версию APK (сейчас **1.7.7**), Android, сеть (Wi‑Fi / LTE)
    и что вы уже пробовали.
 
 2. **Предложить улучшение** — тоже через Issue: опишите задачу и зачем
    это нужно. Реализация остаётся на стороне автора.
 
 3. **Распространять APK** — только ссылкой на официальные релизы
-   ([GitHub](https://github.com/ilexahub/MTProSearch/releases/latest)),
+   ([GitVerse](https://gitverse.ru/ilexa/MTProSearch/releases),
+   [GitHub](https://github.com/ilexahub/MTProSearch/releases/latest)),
    не перекладывайте файл на сторонние сайты от своего имени.
 
 ## Уязвимости
